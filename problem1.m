@@ -1,4 +1,3 @@
-%problem1.m 
 function problem1(tpr, N,a)
 % First order Godunov, solving the traffic flow equation:
 %
