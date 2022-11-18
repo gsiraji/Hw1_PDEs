@@ -1,4 +1,3 @@
-%problem2.m 
 function problem2(tpr, N)
 % First order Godunov, solving the burger's equation:
 %
